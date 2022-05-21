@@ -1,8 +1,9 @@
 body {
     background-color: black;
-    align-items: center;
+    
 }
 h1{
     color: aliceblue;
+    text-align: center;
     
 }
